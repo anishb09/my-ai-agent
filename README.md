@@ -22,9 +22,9 @@ Before you begin, ensure you have Python installed on your system. This project 
 
 ## ⚙️ Installation
 
-1.  **Clone the repository (replace `your-username` with your GitHub username):**
+1.  **Clone the repository (replace `anishb09` with your GitHub username):**
     ```sh
-    git clone https://github.com/your-username/my-ai-agent.git
+    git clone https://github.com/anishb09/my-ai-agent.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
